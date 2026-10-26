@@ -2,6 +2,8 @@
 
 交互式 ATM 之星合成树与多目标进度追踪。Windows x64 免安装，完整解压后双击启动，无需安装 Node.js 或 Python，日常使用无需联网或 VPN。
 
+**[在线使用 → ATM 星图](https://atm-star-map.cherrybell256.chatgpt.site)**
+
 **[下载最新版 → Releases](https://github.com/KotoriEason/atm-star-map/releases/latest)** · **[直接下载 v1.0.1 Windows x64 ZIP（约 61.7 MB）](https://github.com/KotoriEason/atm-star-map/releases/download/v1.0.1/ATM-Star-Map-8.3-Offline-v1.0.1-win-x64.zip)**
 
 请下载 Releases 中的 `ATM-Star-Map-…-win-x64.zip`。GitHub 自动生成的 “Source code” 压缩包是开发源码，不能直接双击运行。
