@@ -1,0 +1,43 @@
+{
+  "name": "atm-star-tracker",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@xyflow/react": "^12.8.5",
+    "idb": "^8.0.3",
+    "lucide-react": "^0.468.0",
+    "lz-string": "^1.5.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "@vitejs/plugin-react": "^5.0.4",
+    "acorn": "^8.15.0",
+    "fake-indexeddb": "^6.2.4",
+    "typescript": "^5.9.2",
+    "vite": "^7.1.0",
+    "vitest": "^5.0.5"
+  },
+  "scripts": {
+    "dev": "node scripts/prepare-catalog.mjs && vite --host 127.0.0.1",
+    "build": "node scripts/prepare-catalog.mjs && tsc -b && vite build",
+    "build:offline": "node scripts/prepare-catalog.mjs && tsc -b && vite build --mode offline --outDir dist-offline",
+    "package:offline": "python scripts/build-offline.py",
+    "test:offline": "node --test offline/tests/server.test.mjs",
+    "preview": "vite preview --host 127.0.0.1",
+    "test": "vitest run",
+    "data:build": "node scripts/build-dataset.mjs",
+    "data:verify": "node scripts/verify-dataset.mjs",
+    "assets:fetch": "python scripts/fetch-game-assets.py",
+    "assets:build": "python scripts/game_assets.py && node scripts/build-dataset.mjs",
+    "assets:verify": "node scripts/verify-presentation.mjs",
+    "test:assets": "python -m unittest discover -s tests -p test_game_assets.py",
+    "data:expand": "node scripts/extract-pack-mutations.mjs && python scripts/curate-acquisitions.py && python scripts/expand-native-data.py && node scripts/build-dataset.mjs",
+    "test:native": "python -m unittest discover -s tests -p test_native_recipes.py",
+    "data:verify:expanded": "python scripts/verify-expansion.py"
+  }
+}

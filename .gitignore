@@ -1,0 +1,17 @@
+node_modules/
+dist/
+dist-offline/
+releases/
+public/catalog/
+data/upstream/
+.openai/*.local.json
+*.zip
+*.log
+*.tsbuildinfo
+__pycache__/
+*.pyc
+.env*
+!.env.example
+
+.openai/
+docs/superpowers/

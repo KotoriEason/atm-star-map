@@ -1,0 +1,66 @@
+{
+  "models": {
+    "enderio:empty_soul_vial": "enderio:item/soul_vial",
+    "enderio:filled_soul_vial": "enderio:item/soul_vial_filled",
+    "hostilenetworks:data_model": "hostilenetworks:item/data_model_base",
+    "mekanism:ultimate_energy_cube": "mekanism:block/energy_cube/ultimate",
+    "mekanism:creative_energy_cube": "mekanism:block/energy_cube/creative",
+    "mekanism:ultimate_fluid_tank": "mekanism:block/fluid_tank",
+    "mekanism:creative_fluid_tank": "mekanism:block/fluid_tank"
+  },
+  "textures": {
+    "allthemodium:soul_lava": [
+      "allthemodium:block/fluid/soul_lava_still"
+    ],
+    "evilcraft:blood": [
+      "evilcraft:block/blood_still"
+    ],
+    "kubejs:liquid_aureal": [
+      "kubejs:block/thin_fluid_still"
+    ],
+    "kubejs:liquid_souls": [
+      "kubejs:block/thin_fluid_still"
+    ],
+    "starbunclemania:source_fluid": [
+      "starbunclemania:block/source_still"
+    ],
+    "kubejs:inferium_enchanting_base": [
+      "minecraft:item/enchanted_book"
+    ],
+    "kubejs:prudentium_enchanting_base": [
+      "minecraft:item/enchanted_book"
+    ],
+    "kubejs:tertium_enchanting_base": [
+      "minecraft:item/enchanted_book"
+    ],
+    "kubejs:imperium_enchanting_base": [
+      "minecraft:item/enchanted_book"
+    ],
+    "kubejs:supremium_enchanting_base": [
+      "minecraft:item/enchanted_book"
+    ],
+    "mysticalagriculture:unexplored_wood_essence": [
+      "mysticalagriculture:item/essence_dust"
+    ],
+    "justdirethings:unstable_portal_fluid_source": [
+      "justdirethings:block/fluid_source"
+    ]
+  },
+  "tints": {
+    "kubejs:liquid_aureal": "7abaff",
+    "kubejs:liquid_souls": "c9eaff",
+    "kubejs:inferium_enchanting_base": "55ff55",
+    "kubejs:prudentium_enchanting_base": "00aa00",
+    "kubejs:tertium_enchanting_base": "eb7114",
+    "kubejs:imperium_enchanting_base": "5555ff",
+    "kubejs:supremium_enchanting_base": "ff5555",
+    "mysticalagriculture:unexplored_wood_essence": "bf991d"
+  },
+  "notes": {
+    "enderio:empty_soul_vial": "源脚本沿用旧 ID；对应模组资源名为 soul_vial。",
+    "enderio:filled_soul_vial": "源脚本沿用旧 ID；对应模组资源名为 soul_vial_filled。",
+    "hostilenetworks:data_model": "使用模组的基础数据模型卡片；实体和数据等级由物品组件区分。",
+    "kubejs:inferium_enchanting_base": "贴图和染色值来自 8.3 startup_scripts/CustomAdditions.js。",
+    "mysticalagriculture:unexplored_wood_essence": "根据 8.3 config/mysticalcustomization/crops/unexplored_wood.json 的贴图与颜色生成。"
+  }
+}

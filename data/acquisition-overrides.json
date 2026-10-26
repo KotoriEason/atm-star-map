@@ -1,0 +1,275 @@
+{
+  "fluid:industrialforegoing:pink_slime": [
+    {
+      "kind": "manual",
+      "title": "屠宰场产液",
+      "description": "使用屠宰场处理生物并收集粉红史莱姆液体。机器、电力、生物供给和实际产液量需另行准备。 此说明来自静态手册/代码资源，具体操作条件和数值尚未游戏内核验。",
+      "source": {
+        "path": "industrialforegoing-1.21-3.6.39.jar!/assets/industrialforegoing/patchouli_books/industrial_foregoing/en_us/entries/agr_hus/pink_slime.json",
+        "line": 1,
+        "sha256": "96daa80fc60edb9a0648ad4873f163fbb3a33052882e3630a2fc59f3d7f0e57b",
+        "url": "https://www.curseforge.com/minecraft/modpacks/all-the-mods-10/files/9190182"
+      }
+    }
+  ],
+  "fluid:industrialforegoing:ether_gas": [
+    {
+      "kind": "manual",
+      "title": "凋灵上方的流体镭射钻",
+      "description": "按手册将流体镭射基座直接置于凋灵上方，并配套镭射钻和电力；收集产生的乙醚气体。 此说明来自静态手册/代码资源，具体操作条件和数值尚未游戏内核验。",
+      "source": {
+        "path": "industrialforegoing-1.21-3.6.39.jar!/assets/industrialforegoing/patchouli_books/industrial_foregoing/en_us/entries/resource_production/ether_gas.json",
+        "line": 1,
+        "sha256": "4dec57db4b632fb668610820748714aa877965f05919bf2d6f396cd55a51d247",
+        "url": "https://www.curseforge.com/minecraft/modpacks/all-the-mods-10/files/9190182"
+      }
+    }
+  ],
+  "fluid:industrialforegoing:latex": [
+    {
+      "kind": "manual",
+      "title": "流体提取机",
+      "description": "将流体提取机对准可提取的原木，收集胶乳；具体木材与产率以本版手册和游戏显示为准。 此说明来自静态手册/代码资源，具体操作条件和数值尚未游戏内核验。",
+      "source": {
+        "path": "industrialforegoing-1.21-3.6.39.jar!/assets/industrialforegoing/patchouli_books/industrial_foregoing/en_us/entries/basics/fluid_extractor.json",
+        "line": 1,
+        "sha256": "b2c33a97469a01bfe2cefdac11bb3f1616160a14f3fd989191a890286a19265f",
+        "url": "https://www.curseforge.com/minecraft/modpacks/all-the-mods-10/files/9190182"
+      }
+    }
+  ],
+  "chemical:mekanism:antimatter": [
+    {
+      "kind": "manual",
+      "title": "SPS 反物质生产",
+      "description": "在组装完成的超临界移相器 SPS 中输入钋和大量能量，收集反物质化学品。它不是普通工作台配方；吞吐量、能耗和数量转换受本版运行时配置控制。 此说明来自静态手册/代码资源，具体操作条件和数值尚未游戏内核验。",
+      "source": {
+        "path": "Mekanism-1.21.1-10.7.19.85.jar!/mekanism/common/content/sps/SPSMultiblockData.class",
+        "line": 1,
+        "sha256": "ef7e81cf34ce6d2895e52376066ea33049e0fc8cf5839ac23bc34c03c8b1dee7",
+        "url": "https://www.curseforge.com/minecraft/modpacks/all-the-mods-10/files/9190182"
+      }
+    }
+  ],
+  "chemical:mekanism:nuclear_waste": [
+    {
+      "kind": "manual",
+      "title": "裂变反应堆废料",
+      "description": "组装并安全运行裂变反应堆，输入裂变燃料；废料通过反应堆端口导出。冷却、辐射与反应堆运行条件请按游戏内资料核对。 此说明来自静态手册/代码资源，具体操作条件和数值尚未游戏内核验。",
+      "source": {
+        "path": "MekanismGenerators-1.21.1-10.7.19.85.jar!/mekanism/generators/common/content/fission/FissionReactorMultiblockData.class",
+        "line": 1,
+        "sha256": "bb5893e9727b64373f131374971f551ba00b234dde83422319df6b47abf4c068",
+        "url": "https://www.curseforge.com/minecraft/modpacks/all-the-mods-10/files/9190182"
+      }
+    }
+  ],
+  "ae2:matter_ball": [
+    {
+      "kind": "manual",
+      "title": "物质聚合器",
+      "description": "向物质聚合器输入可销毁的物品或流体，并安装所需储存组件，选择物质球产出模式。物料总量以机器界面为准。 此说明来自静态手册/代码资源，具体操作条件和数值尚未游戏内核验。",
+      "source": {
+        "path": "appliedenergistics2-19.2.18.jar!/appeng/blockentity/misc/CondenserBlockEntity.class",
+        "line": 1,
+        "sha256": "2aa93b6a79ac6927908875de9ca3af3a01449b786ac13276d9f5e36c59b6d1b0",
+        "url": "https://www.curseforge.com/minecraft/modpacks/all-the-mods-10/files/9190182"
+      }
+    }
+  ],
+  "deeperdarker:heart_of_the_deep": [
+    {
+      "kind": "manual",
+      "title": "监守者额外掉落",
+      "description": "本版全局掉落修饰器向监守者掉落表加入深邃之心。击败监守者后收集，游戏运行时仍可能受其他掉落修改影响。 此说明来自静态手册/代码资源，具体操作条件和数值尚未游戏内核验。",
+      "source": {
+        "path": "deeperdarker-neoforge-1.21.1-1.4.1.jar!/data/deeperdarker/loot_modifiers/warden_heart_from_warden.json",
+        "line": 1,
+        "sha256": "19729958affc828cb32c740c0001d625def67c217191b97cd195db273cfdd2d9",
+        "url": "https://www.curseforge.com/minecraft/modpacks/all-the-mods-10/files/9190182"
+      }
+    }
+  ],
+  "minecraft:nether_star": [
+    {
+      "kind": "mob",
+      "title": "击败凋灵",
+      "description": "下界之星由凋灵的死亡处理代码生成，不在普通 JSON 掉落表中。召唤并击败凋灵后收集；难度和其他模组修改仍以游戏内为准。",
+      "source": {
+        "path": "minecraft-1.21.1-client.jar!/ciu.class",
+        "line": 1,
+        "sha256": "7e40a04dcb43e3cfd4c2dcca22d85a0ec929af4069500054b2e6d90a8a0a3bf4",
+        "url": "https://piston-data.mojang.com/v1/objects/30c73b1c5da787909b2f73340419fdf13b9def88/client.jar"
+      }
+    }
+  ],
+  "evilcraft:flesh_rejuvenated[cyclopscore:fluid_content={amount:10000,id:\"evilcraft:blood\"}]": [
+    {
+      "kind": "manual",
+      "title": "向物品注入流体",
+      "description": "准备未装填的 evilcraft:flesh_rejuvenated，使用兼容的流体输入方式注入 evilcraft:blood 至 10000 mB。配方要求精确的流体组件，不可用空物品替代。 此说明来自静态手册/代码资源，具体操作条件和数值尚未游戏内核验。",
+      "source": {
+        "path": "evilcraft-1.21.1-neoforge-1.2.98-1154.jar!/org/cyclops/evilcraft/blockentity/BlockEntityDarkTank.class",
+        "line": 1,
+        "sha256": "f1cf392b058980788e5ac2e745869a8594c5e43aebb85b488f9d74cc8fb7770e",
+        "url": "https://www.curseforge.com/minecraft/modpacks/all-the-mods-10/files/9190182"
+      }
+    }
+  ],
+  "evilcraft:mace_of_distortion[cyclopscore:fluid_content={amount:4000,id:\"evilcraft:blood\"}]": [
+    {
+      "kind": "manual",
+      "title": "向物品注入流体",
+      "description": "准备未装填的 evilcraft:mace_of_distortion，使用兼容的流体输入方式注入 evilcraft:blood 至 4000 mB。配方要求精确的流体组件，不可用空物品替代。 此说明来自静态手册/代码资源，具体操作条件和数值尚未游戏内核验。",
+      "source": {
+        "path": "evilcraft-1.21.1-neoforge-1.2.98-1154.jar!/org/cyclops/evilcraft/blockentity/BlockEntityDarkTank.class",
+        "line": 1,
+        "sha256": "f1cf392b058980788e5ac2e745869a8594c5e43aebb85b488f9d74cc8fb7770e",
+        "url": "https://www.curseforge.com/minecraft/modpacks/all-the-mods-10/files/9190182"
+      }
+    }
+  ],
+  "evilcraft:necromancer_staff[cyclopscore:fluid_content={amount:10000,id:\"evilcraft:blood\"}]": [
+    {
+      "kind": "manual",
+      "title": "向物品注入流体",
+      "description": "准备未装填的 evilcraft:necromancer_staff，使用兼容的流体输入方式注入 evilcraft:blood 至 10000 mB。配方要求精确的流体组件，不可用空物品替代。 此说明来自静态手册/代码资源，具体操作条件和数值尚未游戏内核验。",
+      "source": {
+        "path": "evilcraft-1.21.1-neoforge-1.2.98-1154.jar!/org/cyclops/evilcraft/blockentity/BlockEntityDarkTank.class",
+        "line": 1,
+        "sha256": "f1cf392b058980788e5ac2e745869a8594c5e43aebb85b488f9d74cc8fb7770e",
+        "url": "https://www.curseforge.com/minecraft/modpacks/all-the-mods-10/files/9190182"
+      }
+    }
+  ],
+  "evilcraft:broom[cyclopscore:fluid_content={amount:10000,id:\"evilcraft:blood\"}]": [
+    {
+      "kind": "manual",
+      "title": "向物品注入流体",
+      "description": "准备未装填的 evilcraft:broom，使用兼容的流体输入方式注入 evilcraft:blood 至 10000 mB。配方要求精确的流体组件，不可用空物品替代。 此说明来自静态手册/代码资源，具体操作条件和数值尚未游戏内核验。",
+      "source": {
+        "path": "evilcraft-1.21.1-neoforge-1.2.98-1154.jar!/org/cyclops/evilcraft/blockentity/BlockEntityDarkTank.class",
+        "line": 1,
+        "sha256": "f1cf392b058980788e5ac2e745869a8594c5e43aebb85b488f9d74cc8fb7770e",
+        "url": "https://www.curseforge.com/minecraft/modpacks/all-the-mods-10/files/9190182"
+      }
+    }
+  ],
+  "justdirethings:creaturecatcher[justdirethings:entitytype=\"occultism:dragon_familiar\"]": [
+    {
+      "kind": "manual",
+      "title": "召唤并捕获巨龙魔灵",
+      "description": "先完成 Occultism 的巨龙魔灵召唤仪式，再使用生物捕捉器捕获。需要实体类型精确匹配 occultism:dragon_familiar。仪式环境与召唤代价按游戏内恶魔之梦核对。 此说明来自静态手册/代码资源，具体操作条件和数值尚未游戏内核验。",
+      "source": {
+        "path": "occultism-1.21.1-neoforge-1.224.5.jar!/data/occultism/recipe/ritual/familiar_dragon.json",
+        "line": 1,
+        "sha256": "1a8c85915e28de4f9be3a2e36db683109ac2533b9e1c43b94d46e04666899077",
+        "url": "https://www.curseforge.com/minecraft/modpacks/all-the-mods-10/files/9190182"
+      }
+    }
+  ],
+  "hostilenetworks:data_model[hostilenetworks:data_model=\"hostilenetworks:ender_dragon\",hostilenetworks:data=1255]": [
+    {
+      "kind": "manual",
+      "title": "末影龙模型训练",
+      "description": "将对应末影龙数据模型放入深度学习仪，随身携带并击败对应生物，达到可模拟等级后可用模拟室继续训练。此配方要求的 data 组件必须完全匹配（如 1255）；训练等级与数值不能仅凭基础模型推断。 此说明来自静态手册/代码资源，具体操作条件和数值尚未游戏内核验。",
+      "source": {
+        "path": "ATM10-8.3.zip!/overrides/kubejs/data/hostilenetworks/data_models/ender_dragon.json",
+        "line": 1,
+        "sha256": "13f7030a257bf3656f0ce00c3a90ec4e6d37ddc75c244dbbb412bf6436657de2",
+        "url": "https://www.curseforge.com/minecraft/modpacks/all-the-mods-10/files/9190182"
+      }
+    }
+  ],
+  "hostilenetworks:data_model[hostilenetworks:data_model=\"hostilenetworks:ender_dragon\",hostilenetworks:data=1254]": [
+    {
+      "kind": "manual",
+      "title": "末影龙模型训练",
+      "description": "将对应末影龙数据模型放入深度学习仪，随身携带并击败对应生物，达到可模拟等级后可用模拟室继续训练。此配方要求的 data 组件必须完全匹配（如 1255）；训练等级与数值不能仅凭基础模型推断。 此说明来自静态手册/代码资源，具体操作条件和数值尚未游戏内核验。",
+      "source": {
+        "path": "ATM10-8.3.zip!/overrides/kubejs/data/hostilenetworks/data_models/ender_dragon.json",
+        "line": 1,
+        "sha256": "13f7030a257bf3656f0ce00c3a90ec4e6d37ddc75c244dbbb412bf6436657de2",
+        "url": "https://www.curseforge.com/minecraft/modpacks/all-the-mods-10/files/9190182"
+      }
+    }
+  ],
+  "productivebees:spawn_egg_configurable_bee[entity_data={id:\"productivebees:configurable_bee\",type:\"productivebees:soul_lava\"}]": [
+    {
+      "kind": "manual",
+      "title": "灵魂熔岩蜜蜂转化/浇铸",
+      "description": "本版资源声明幽灵蜜蜂可通过灵魂熔岩转化；Productive Metalworks 存在时使用对应浇铸路线。获得蜜蜂后用模组提供的捕获方式取得匹配实体数据的物品。原版刷怪蛋与不同蜜蜂类型不等价。 此说明来自静态手册/代码资源，具体操作条件和数值尚未游戏内核验。",
+      "source": {
+        "path": "productivemetalworks-1.21.1-1.15.1.jar!/data/productivemetalworks/recipe/casting/pbees/soul_lava_bee.json",
+        "line": 1,
+        "sha256": "2c44ec7c82b46bffad0ffc6ea4d54e72226f1c2576cb1f2af66c0bb3f2ec136f",
+        "url": "https://www.curseforge.com/minecraft/modpacks/all-the-mods-10/files/9190182"
+      }
+    }
+  ],
+  "productivebees:configurable_comb[productivebees:bee_type=\"productivebees:withered\"]": [
+    {
+      "kind": "manual",
+      "title": "凋零蜜蜂产物",
+      "description": "骷髅蜜蜂可用凋零玫瑰转化为凋零蜜蜂；在高级蜂箱满足生产条件后取得对应蜂脾。注意配方脚本的 configurable_comb 与本版原生 configurable_honeycomb 标识差异需游戏内核验，不自动互换。 此说明来自静态手册/代码资源，具体操作条件和数值尚未游戏内核验。",
+      "source": {
+        "path": "productivebees-1.21.1-13.14.0.jar!/data/productivebees/recipe/bee_conversion/withered_bee.json",
+        "line": 1,
+        "sha256": "32bfd1b77080bc9fbb417344404414050e9d103bd22a96b721b105b755eab0a6",
+        "url": "https://www.curseforge.com/minecraft/modpacks/all-the-mods-10/files/9190182"
+      }
+    }
+  ],
+  "irons_spellbooks:scroll[irons_spellbooks:spell_container={data:[{id:\"irons_spellbooks:wither_skull\",index:0,level:10,locked:1b}],maxSpells:1,mustEquip:0b,spellWheel:0b}]": [
+    {
+      "kind": "manual",
+      "title": "指定法术和等级的卷轴",
+      "description": "此配方要求凋零之颅 X（等级 10）卷轴及对应法术组件。请从本版法术书系统取得并核对等级；普通卷轴或其他等级不等价，尚未静态核实其完整生成机制。 此说明来自静态手册/代码资源，具体操作条件和数值尚未游戏内核验。",
+      "source": {
+        "path": "irons_spellbooks-1.21.1-3.16.3.jar!/META-INF/neoforge.mods.toml",
+        "line": 1,
+        "sha256": "401c9d967933cd86633b069b268f01c375432d50a52afaf768d45cb176f84026",
+        "url": "https://www.curseforge.com/minecraft/modpacks/all-the-mods-10/files/9190182"
+      }
+    }
+  ],
+  "evilcraft:dark_tank[cyclopscore:fluid_content={amount:16000,id:\"justdirethings:refined_t4_fluid_source\"}]": [
+    {
+      "kind": "manual",
+      "title": "向物品注入流体",
+      "description": "准备未装填的 evilcraft:dark_tank，使用兼容的流体输入方式注入 justdirethings:refined_t4_fluid_source 至 16000 mB。配方要求精确的流体组件，不可用空物品替代。 此说明来自静态手册/代码资源，具体操作条件和数值尚未游戏内核验。",
+      "source": {
+        "path": "evilcraft-1.21.1-neoforge-1.2.98-1154.jar!/org/cyclops/evilcraft/blockentity/BlockEntityDarkTank.class",
+        "line": 1,
+        "sha256": "f1cf392b058980788e5ac2e745869a8594c5e43aebb85b488f9d74cc8fb7770e",
+        "url": "https://www.curseforge.com/minecraft/modpacks/all-the-mods-10/files/9190182"
+      }
+    }
+  ],
+  "ae2wtlib:wireless_universal_terminal[ae2wtlib:has_ex_pattern_access_terminal={},ae2wtlib:has_pattern_encoding_terminal={},ae2wtlib:has_crafting_terminal={},ae2wtlib:has_pattern_access_terminal={},ae2:stored_energy=6400000.0d]": [
+    {
+      "kind": "manual",
+      "title": "终端模块与充能",
+      "description": "准备通用无线终端，按终端模组方式装入该配方要求的所有终端功能，并充能到组件指定值 6,400,000。此步骤需要检查组件，普通空终端不等价。 此说明来自静态手册/代码资源，具体操作条件和数值尚未游戏内核验。",
+      "source": {
+        "path": "ae2wtlib-19.5.1.jar!/META-INF/neoforge.mods.toml",
+        "line": 1,
+        "sha256": "14e6d36ea555d65952706600ee6e9b17d65f81d3dea58bcd7c1e85c9fe928065",
+        "url": "https://www.curseforge.com/minecraft/modpacks/all-the-mods-10/files/9190182"
+      }
+    }
+  ],
+  "evilcraft:mace_of_destruction[cyclopscore:fluid_content={amount:4000,id:\"evilcraft:blood\"}]": [
+    {
+      "kind": "manual",
+      "title": "向物品注入流体",
+      "description": "准备未装填的 evilcraft:mace_of_destruction，使用兼容的流体输入方式注入 evilcraft:blood 至 4000 mB。配方要求精确的流体组件，不可用空物品替代。 此说明来自静态手册/代码资源，具体操作条件和数值尚未游戏内核验。",
+      "source": {
+        "path": "evilcraft-1.21.1-neoforge-1.2.98-1154.jar!/org/cyclops/evilcraft/item/ItemMaceOfDestruction.class",
+        "line": 1,
+        "sha256": "4cb900e8e9f3babdcf119d14ad6f8f57445da9817b51548c3baf36dd38608654",
+        "url": "https://www.curseforge.com/minecraft/modpacks/all-the-mods-10/files/9190182"
+      }
+    }
+  ]
+}

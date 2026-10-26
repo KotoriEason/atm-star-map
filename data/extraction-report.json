@@ -1,0 +1,2534 @@
+{
+  "sources": [
+    {
+      "path": "kubejs/server_scripts/Tweaks/clearing_recipes.js",
+      "sha256": "c2d1f0960c3342468ee2daddea03b399255a954c7bc85cfff5f486edad81dd99",
+      "recipes": 31,
+      "unresolved": 0
+    },
+    {
+      "path": "kubejs/server_scripts/Tweaks/recipes.js",
+      "sha256": "8c7aff447a502f9c59379a0a7ef62903a811659f13a830d323e3f0ee6530f2a8",
+      "recipes": 26,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/Tweaks/remove_recipes_from_banlist.js",
+      "sha256": "e0821df7905625e11e513b409716ecb7692919f9d59c1225c36d17c9cbfce5a9",
+      "recipes": 0,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/Unification/coke.js",
+      "sha256": "a76c982b4f97a2bbb853e951f82c0e1011f2c4bc0e4d1c9be552f20deb96270c",
+      "recipes": 0,
+      "unresolved": 2
+    },
+    {
+      "path": "kubejs/server_scripts/Unification/creosote.js",
+      "sha256": "1aee7952cd95c4c86c977a2ea4d2c57b42bde460a3e09c8d29e1eea6d6fbcfef",
+      "recipes": 0,
+      "unresolved": 4
+    },
+    {
+      "path": "kubejs/server_scripts/Unification/crops.js",
+      "sha256": "8695c7aa681191fdc7776f711c761cc3d2ed746c35e8233884bf4edf0538a47a",
+      "recipes": 6,
+      "unresolved": 8
+    },
+    {
+      "path": "kubejs/server_scripts/Unification/gears.js",
+      "sha256": "f7dc3797c8182dc81b15be8aee2be8d29d304a0ef108153e77c132598651dee8",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "kubejs/server_scripts/Unification/tools.js",
+      "sha256": "7c26f16b72e22cada986fdeb04ec75a9c70a4274a72f0f5ccd3f21b7a806b7c1",
+      "recipes": 9,
+      "unresolved": 0
+    },
+    {
+      "path": "kubejs/server_scripts/banlist_script.js",
+      "sha256": "62c361fc36419f8e345bb70bb0f938c5623df73810f9c087b09a2ee8ac1f7458",
+      "recipes": 0,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/modpack/atm_alloys.js",
+      "sha256": "c862e2afe084f3d55775a216b56deeeb06f617f8ce5c56016f2172e6bf048ca6",
+      "recipes": 21,
+      "unresolved": 0
+    },
+    {
+      "path": "kubejs/server_scripts/modpack/atm_star.js",
+      "sha256": "28142a022b0e358bb2a303e6f487b8cc849e41c17bdca0eca313ce6c86d3631f",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "kubejs/server_scripts/modpack/atm_star_creative.js",
+      "sha256": "de1182910bc6724753db98eb7cdb06f06145010f650c3055f6f5441bdbee6924",
+      "recipes": 11,
+      "unresolved": 5
+    },
+    {
+      "path": "kubejs/server_scripts/modpack/att_items.js",
+      "sha256": "a2b60fdab490a517a82dc76fc074854c9e11f457edae8ddcf2138037a913b291",
+      "recipes": 9,
+      "unresolved": 0
+    },
+    {
+      "path": "kubejs/server_scripts/modpack/mini_portals.js",
+      "sha256": "0fb554791770263febdd0bccb90175f5569412d7e29090ba9ce1caf0510f04f7",
+      "recipes": 3,
+      "unresolved": 0
+    },
+    {
+      "path": "kubejs/server_scripts/modpack/runic_multis/controllers.js",
+      "sha256": "e5bfa8a28e8069900a32b860fa38e2c689c20b873c39357236c44b8a2264bf36",
+      "recipes": 9,
+      "unresolved": 5
+    },
+    {
+      "path": "kubejs/server_scripts/modpack/runic_multis/recipes/auto_forge.js",
+      "sha256": "6200a33bf51a089b9b57504375e1c9c0e4ca65d393597015c6aac7e19180bb6c",
+      "recipes": 19,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/modpack/runic_multis/recipes/runic_crucible.js",
+      "sha256": "4488d16c0191b70d7ab7e56136441b93cfb2391d3335ec3050a14aa39794fe42",
+      "recipes": 3,
+      "unresolved": 2
+    },
+    {
+      "path": "kubejs/server_scripts/modpack/runic_multis/recipes/runic_enchanter.js",
+      "sha256": "4db71b6a6a9db7388cc72469d8c00d6c1ea5400479e2f2af96c5ae930b868574",
+      "recipes": 123,
+      "unresolved": 0
+    },
+    {
+      "path": "kubejs/server_scripts/modpack/runic_multis/recipes/star_altar.js",
+      "sha256": "3b9b6a50b319a97325a7e986f40d3901f3f6ebfe8d022c77cd5dadca23692328",
+      "recipes": 10,
+      "unresolved": 0
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Actually Additions/Crusher.js",
+      "sha256": "e5ed3c5a572c4f5ad80045286bfa7fb1c31d100d0f0787fef20e9bfbed36c58a",
+      "recipes": 0,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Actually Additions/Fluid_Fuels.js",
+      "sha256": "dfc04de6d9092cbb8ebbb15f1f9da5a9ef6257e0ec62d6cf7cda98754a5fc131",
+      "recipes": 0,
+      "unresolved": 2
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Actually Additions/Recipes.js",
+      "sha256": "a59e243c0f02f25d7626897c7e47c552953e228e549da230cac8cab778b31433",
+      "recipes": 0,
+      "unresolved": 4
+    },
+    {
+      "path": "kubejs/server_scripts/mods/AdditionalEnchantedMiner/Recipes.js",
+      "sha256": "84631a30e2ef7d16b0de9dcb44cf43c43c4caee923b6293a90bddf4089763787",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "kubejs/server_scripts/mods/AdvancedAE/Recipes.js",
+      "sha256": "78b420b42efc906f4900355d54cbef23ccdc5c5922fd57d8ebb47c34b2d2aff3",
+      "recipes": 2,
+      "unresolved": 0
+    },
+    {
+      "path": "kubejs/server_scripts/mods/AllTheOres/Recipes.js",
+      "sha256": "d15d6c45311f34ef2d5d9e4a5afa02d3503dc5c69f9667b75fcfa146fc66a877",
+      "recipes": 2,
+      "unresolved": 2
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Allthemodium/Recipes.js",
+      "sha256": "c5b789d1e22f2af0d03aa3b0b18131809b99399540b446d9d59b0ff66cd01ec6",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Applied Energistics/Recipes.js",
+      "sha256": "c0ffd0b4efaa3e235e034db4562f2fb460e7d6c40551ebb8dc1490efa8dadfb9",
+      "recipes": 68,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Building Gadgets/Recipes.js",
+      "sha256": "eb93d82cfb6b1b98d78f1dd1e7477a1fbf3ebd63f409d2776bd109d949be6f65",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Bumblezone/Recipes.js",
+      "sha256": "a296c4e91bbb5c1a6f5dff5c77625feb9fa2087c6d651c9bd7641c4ff6e5ed92",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Create Enchantment Industry/recipes.js",
+      "sha256": "08ee8427828f9d8ede2c4b0f64640a3a7055c28083a0214121e69a48968b62da",
+      "recipes": 0,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Draconic Evolution/draconic_evo.js",
+      "sha256": "acaf9474470dcf172e5676a78fbdac66f448418844c514274fb43b369ad0598e",
+      "recipes": 0,
+      "unresolved": 6
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Dyenamics/recipes.js",
+      "sha256": "208f0eb571e819545c8a035a0a187fb296c3663eef82d5fc7f3c876d5ed87d12",
+      "recipes": 18,
+      "unresolved": 0
+    },
+    {
+      "path": "kubejs/server_scripts/mods/EnderIO/Recipes.js",
+      "sha256": "417f9152efa8bec7ded0df5e13c58fc3882caa8a98d865c14e5d91c6f64da895",
+      "recipes": 0,
+      "unresolved": 24
+    },
+    {
+      "path": "kubejs/server_scripts/mods/EnderIO/sagMill.js",
+      "sha256": "6ebc2b3478c1fabf96aa5ab702dbf98f2d546da3468c021ed3a9e4e5f17a7a9c",
+      "recipes": 0,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Entangled/Recipes.js",
+      "sha256": "d12327b0333ea98bf98bb3f4fa8033d1978041ebfb3bf59a5b405daa6a74272c",
+      "recipes": 2,
+      "unresolved": 0
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Eternal Starlight/Recipes.js",
+      "sha256": "00986f8bc9dd1747cba5f598c560283eca4bbdf1ecd5344f797346456bc761bd",
+      "recipes": 6,
+      "unresolved": 0
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Explorer's Compass/Recipes.js",
+      "sha256": "d9601ddf149ab48a991dd71520d2cba1a4cf077849545a142c073902d3305c26",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Hostile Neural Networks/Recipes.js",
+      "sha256": "a2ad3000dcf083dde477faaec7767d95d479f476494161b95b45d1bb05f06509",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Hyperbox/Recipes.js",
+      "sha256": "9eedcd6f041ba230c78bbad00bde57dad2be254e50d636d747db2e34f5309c6e",
+      "recipes": 0,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Hyperbox/hyperbox.js",
+      "sha256": "59b6c0883239e88ecb126c8d4e57d07dcd9cfd5fa6b5771458dcfdc9c74bb072",
+      "recipes": 0,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Ice and Fire/Recipes.js",
+      "sha256": "2897e2e646b311c9b4b9613307081878d97f55bc021b920ff23fee3d942eda9f",
+      "recipes": 3,
+      "unresolved": 0
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Immersive Engineering/Compatibility.js",
+      "sha256": "348a8f9db1c0d5cd0435482159b7622278f003edd84eb3b3892cab6c5df91033",
+      "recipes": 0,
+      "unresolved": 25
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Indusrial Foregoing/Dissolution Chamber.js",
+      "sha256": "aed33b7d91c7c32668fb59b5e683b484befaa89ccc45ddcc47e0e4cad3429279",
+      "recipes": 5,
+      "unresolved": 0
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Integrated Dynamics/Squeezer.js",
+      "sha256": "a7eeb89eb61d2c9a0dc79b54fa07668c8dc3287da7238a637b9d9e6d23023f90",
+      "recipes": 0,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Irons Spells Spellbooks/Recipes.js",
+      "sha256": "183b0efe86a9fd2d2404c7bca0a83d6c7caf5b9039a88c02378f1288f26020bf",
+      "recipes": 0,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/mods/JustDireThings/Recipes.js",
+      "sha256": "44b475f5bb8cb343f01608b3cc9c77754e75a0b8a71b5c6df4b60084ea19c9fb",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Laser Bridges & Doors/Recipes.js",
+      "sha256": "5b0a4eeef74e1299d9af8d38661f09f7bfb07e27702cdc9d345d928ffe5c0ee3",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Mega Cells/Recipes.js",
+      "sha256": "726a778dd41deb6ecf258bdcda50c6080a8fac971d6d1d2798a405bf88d29159",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Mekanism/Compatibility.js",
+      "sha256": "980af720da37e1006abe331b1f52ec5e17e5e93714a854ca10206784399997da",
+      "recipes": 0,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Mekanism/Evilcraft.js",
+      "sha256": "1bd5df67b93c1e4f655d6848438f37cc17dac0cbb120abe31815e92b8be1c897",
+      "recipes": 0,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Mekanism/Rebalance/Gear.js",
+      "sha256": "56593707c1f05bd0148a713bbaf76e374b64c0a29763fe5bd54bcbcf0c0cbf5a",
+      "recipes": 6,
+      "unresolved": 0
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Mekanism/Rebalance/Items.js",
+      "sha256": "4b66447bfb351feb42f5b6632c49f523c7f3c50eee5a38c007390cba69ea04ae",
+      "recipes": 3,
+      "unresolved": 4
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Mekanism/Recipes.js",
+      "sha256": "c12ef5145f042a18b1a73f88defa0b645209d483f1b1e94a83443b9bb30fed90",
+      "recipes": 2,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Mekanism/ore_processing.js",
+      "sha256": "3c41fa40d6f2d8e7250e75c4174a113c9d262eec5d21ceac293339374c49a6fb",
+      "recipes": 0,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Minecolonies/Recipes.js",
+      "sha256": "57dce1d81762fed09cbab3e065c35dff3f1ecc59045bb91937f4695e2eea65aa",
+      "recipes": 0,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Mining Gadgets/Recipes.js",
+      "sha256": "af226c93de67ef47b92c43132beaa74ac06e2932bfe2031fa7a1f662b553998e",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Modern Industrialization/AE_Compat.js",
+      "sha256": "97d1b918ac1be73a33ec4f659bd4ce5d8b70cb06631de8392a35cbfa9f7f84a4",
+      "recipes": 0,
+      "unresolved": 8
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Modern Industrialization/distillation.js",
+      "sha256": "b9f0bb7d17478666ef2bae71e68e5b9d93b0f7fc82d869caed6c05e79f6608f0",
+      "recipes": 0,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/mods/MysticalAgriculture/Compatibility.js",
+      "sha256": "626807956f57969f2f37cc8c6b5ab943cb14947fc8b5d4fbfca2a3db95b28309",
+      "recipes": 0,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/mods/MysticalAgriculture/Crops.js",
+      "sha256": "15a96fb18fc93bfb3c237c3f918f241c920c99099a239cac53f443abcb50e0f6",
+      "recipes": 0,
+      "unresolved": 2
+    },
+    {
+      "path": "kubejs/server_scripts/mods/MysticalAgriculture/Recipes.js",
+      "sha256": "bd19c6e9c08490fcfc5435c918f735131f49686bbb327fe0e3d1cd6788c926c9",
+      "recipes": 44,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Oritech/recipes.js",
+      "sha256": "f7333a5c2f9e0176b42d79021347d04134d58d9f7cd66535158ea85becb6aa1f",
+      "recipes": 2,
+      "unresolved": 3
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Pneumaticcraft/recipes.js",
+      "sha256": "c14fe136c95406470e147accf2d1fc569ad4991bbb2488b0bf9f6e66ee51b339",
+      "recipes": 0,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Powah/Energizing.js",
+      "sha256": "259153e8a8aa2b3c854994f4b55f49db04ab1a949e44e74b753c89e0d4c78bd3",
+      "recipes": 2,
+      "unresolved": 2
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Productive Bees/Recipes.js",
+      "sha256": "d732d57cf8f98f1f16f9c15f8e1e20c5d907f1c99612cf67e6445d1f0eef04c5",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Regions Unexplored/Recipes.js",
+      "sha256": "8b83bf40ac5b7acc007b3456baa9e55023da377f182621936ef205c1e339793e",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Reliquary/Recipes.js",
+      "sha256": "01d927103adc0bc768b7a93b199e767d4a16f97cb8b9c13bc6a1ef93466dd219",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "sha256": "d5919dd8e2ed201d16454b32f663086f7eb17835425d8d83b6692db98f18b1c5",
+      "recipes": 0,
+      "unresolved": 86
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Theurgy/liquefaction.js",
+      "sha256": "eaf07147f3e70ca6bc088c0785a7cabc9157689c6b1712e3dc00992e08d3b8b6",
+      "recipes": 0,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Time In A Bottle/Recipes.js",
+      "sha256": "1366260acf2d6218899b6a7818e345b8db7a310dec71bfd2e09045d16ada2a47",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Utilitarian/Recipes.js",
+      "sha256": "12f19652184230ab698c9c4b8acbf4d29f85af3850d794fc4f059d6333f516b0",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "kubejs/server_scripts/mods/dysoncubeproject/recipes.js",
+      "sha256": "407fe03b3414a2048499dd3801286343ade8ce9ad45dbe6246a2b0f164a51d73",
+      "recipes": 2,
+      "unresolved": 0
+    },
+    {
+      "path": "kubejs/server_scripts/mods/enderman overhaul/recipes.js",
+      "sha256": "f4184845026443f70f241ee11264c1981ae03bdb833d83ba5f56306f7f34e003",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "sha256": "05f9d305d6a68ab8bf020367a8fc7d5dd257140b862627fd3da27e958d24d455",
+      "recipes": 0,
+      "unresolved": 57
+    },
+    {
+      "path": "kubejs/server_scripts/mods/minecraft/recipes.js",
+      "sha256": "f262dd9829637eb8b1180d900d39d444665ed3c1e2d77e74bbbbfe05c494c274",
+      "recipes": 2,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/multiblocks/atm/auto_hephaestus_forge.js",
+      "sha256": "fe9a9bde408b4257ebce4d0718ca2fdf1bacf05b6074fb7f073fce010ba53b3b",
+      "recipes": 0,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/multiblocks/atm/runic_crucible.js",
+      "sha256": "bb675e17068c0ec0cebdec6889e85f42aa9e32c70fa5836ffe41919e291113f1",
+      "recipes": 0,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/multiblocks/atm/runic_enchanter.js",
+      "sha256": "93f654e700344804c7808ac008732682d52a03f8baef45f283570b4b075dfd01",
+      "recipes": 0,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/multiblocks/atm/runic_star_altar.js",
+      "sha256": "81dd55e2f217bc70e31c67c2ebcf70640b3baa191c002024fbd6e92c3874f8b1",
+      "recipes": 0,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/multiblocks/mekanism/chemical_crystallizer.js",
+      "sha256": "a24f61c68490984660a5688088cd98ab0cd4d9177561a892120482ac11e975eb",
+      "recipes": 0,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/multiblocks/mekanism/chemical_dissolution_chamber.js",
+      "sha256": "737dc0d90b371800b7d25df202e2fa08196438ff5080e3379076736556cb0e15",
+      "recipes": 0,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/multiblocks/mekanism/chemical_infuser.js",
+      "sha256": "7d7d8b7d7943d089359a86dbbca680b1865b58760519bec468c624040c85054f",
+      "recipes": 0,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/multiblocks/mekanism/chemical_oxidizer.js",
+      "sha256": "8ebcdd18e339a9c4d5c8ce0c6dce87b904c032a266b711b7fb8b7323615e4c24",
+      "recipes": 0,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/multiblocks/mekanism/chemical_washer.js",
+      "sha256": "3036578b813c0f4a53a643676e783f650504b44c8db5ecae18216c450708ce82",
+      "recipes": 0,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/multiblocks/mekanism/electrolytic_seperator.js",
+      "sha256": "eb164eff6363dcee0624894b871598c71931323feb08f53678779b5432ccc5fd",
+      "recipes": 0,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/multiblocks/mekanism/isotopic_centrifuge.js",
+      "sha256": "7bf52bd757a2e0d618e0c68bb1cfb8d46f8c5326db746e4234a38f1fe634cc28",
+      "recipes": 0,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/multiblocks/mekanism/pressurized_reaction_chamber.js",
+      "sha256": "9a9dc88e19e053dd5e90e6d1049327fc3bb10a1f48cd8ec1a71c3b833ac5a1f1",
+      "recipes": 0,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/multiblocks/mekanism/solar_neutron_activator.js",
+      "sha256": "538741948e643daecb5d061dad1de50849c72d4ec6e23cff36b9f52c035b41d7",
+      "recipes": 0,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/recipes/atm/auto_hephaestus_forge.js",
+      "sha256": "0bbd69be05d24fb1380e550dce7ee87e68fbd0d46ca06772ee150f392be385f1",
+      "recipes": 0,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/recipes/atm/general.js",
+      "sha256": "4232e5f29138dac3b89e18e8f6ee5350f21912ae41431a009374267d66da945a",
+      "recipes": 0,
+      "unresolved": 3
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/recipes/atm/multiblock_parts.js",
+      "sha256": "3e3722fe7c6f5ca7302391bc836991baf83f5d5c8f940b2a8129b3285980dab1",
+      "recipes": 0,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/recipes/atm/runic_crucible.js",
+      "sha256": "dfc775a5a470ce6a2040250449902f8f47afff04019b9ca6533a135639fec377",
+      "recipes": 0,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/recipes/atm/runic_enchanter.js",
+      "sha256": "780902e52c30f0d496fb71e5f8cd406d817168d2635c15aae2c6b6ca973b0ff3",
+      "recipes": 0,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/recipes/mekanism/chemical_crystallizer.js",
+      "sha256": "04d29bf5e4ff544b09760c99733e6d8537bdef195e625d9ed165e4c25520d052",
+      "recipes": 0,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/recipes/mekanism/chemical_dissolution_chamber.js",
+      "sha256": "27fb41e8e9f0525b92b4bc5a5ab6cd41d59c490434d2e751bea9c0c9f6a5aabc",
+      "recipes": 0,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/recipes/mekanism/chemical_infuser.js",
+      "sha256": "2d367f301ce821f52af4d52697ec2ea50a63377eac47f5b32575b11b336f709e",
+      "recipes": 0,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/recipes/mekanism/chemical_oxidizer.js",
+      "sha256": "8e778aa7f9ac1c9809d7f6d2f2a978cda5fe0deedd1dded19faf38aa1ab7cdd1",
+      "recipes": 0,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/recipes/mekanism/chemical_washer.js",
+      "sha256": "7191d63c7efabaa87672057c941bd764b81e627ba25088ffeccf21acbbfcf60b",
+      "recipes": 0,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/recipes/mekanism/controllers.js",
+      "sha256": "ee7abe49b0016ef489309a28375309f6eb627b2f15318e8bbbeeb7f1659b20b4",
+      "recipes": 0,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/recipes/mekanism/electrolytic_seperator.js",
+      "sha256": "7a423128dc78156670f8e2b09022271117788e92676b3ec7e5ad046a78da23d0",
+      "recipes": 0,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/recipes/mekanism/isotopic_centrifuge.js",
+      "sha256": "f1aa11ca75a0008cdbb359ed576a3a0886aad855d9aaededdab6c022d3755f2c",
+      "recipes": 0,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/recipes/mekanism/pressurized_reaction_chamber.js",
+      "sha256": "22732f74f621a2e3e5e5cc86d6b7ef58c7ccd653c11bcaed6b1d428f97a4aa86",
+      "recipes": 0,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/recipes/mekanism/solar_neutron_activator.js",
+      "sha256": "2fe1d702828d1ab17fbc7af533a795e837865831155692663dc3b4a35a6d6368",
+      "recipes": 0,
+      "unresolved": 1
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modularbees/recipes.js",
+      "sha256": "893cdaf7db5a07b5017efb2b43a78569d16c486f0d3e13d2d603607bce4d860d",
+      "recipes": 9,
+      "unresolved": 0
+    },
+    {
+      "path": "kubejs/server_scripts/mods/rftools/Recipes.js",
+      "sha256": "edc91c05fa9aea960d413b91fa27aeb7bdb6ec069ac43da6dc3015a0c70557be",
+      "recipes": 17,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/diamond_block_1x.json",
+      "sha256": "a7c9a67aeff3084d1a62ab671a4d7ff46e3f69a45d4394f376665c0a90d3da26",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/diamond_block_2x.json",
+      "sha256": "7ce2238292d46ca613fabfc632d25041ebeb4643ab043cff492087b3c2c2fa16",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/diamond_block_3x.json",
+      "sha256": "7f7a9e2b3efb973ce32f2a7a0db5b2000c6fe0553b43284d3aca24144e9992c4",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/diamond_block_4x.json",
+      "sha256": "6f577f675396694f4129bbb99710d09f29ce73bd404dcc9156d397ab3dc27d84",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/diamond_block_5x.json",
+      "sha256": "717b09947ab002945ef540734f0bef953aa3c9b297b71982879e9bbb91a113b5",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/diamond_block_6x.json",
+      "sha256": "cccd21642a99e09a4086cdd4865703815b896e97066b639ac720db62743716bb",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/diamond_block_7x.json",
+      "sha256": "4da8e71e55d0c3389dcb5bdcc5004946bae0874cb8d340ad87a52bd37abfc502",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/diamond_block_8x.json",
+      "sha256": "f6be700a9dfbcdea8d6cc7e91668925940f407943384251339f4b0d4145a8ed6",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/diamond_block_9x.json",
+      "sha256": "64677dd991c3343a55c686b94191d5ce9f2b3c89319d1274cd0b3701cff814e3",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/emerald_block_1x.json",
+      "sha256": "6ea29f0f4951bfcd6b5a470f291d898c52c653938bd6aa6893fe02067c4817d7",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/emerald_block_2x.json",
+      "sha256": "0f1ca702030fe4c6b6ddbc6be27f2f5a74456e1e8c9e5822e8a23457c248a720",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/emerald_block_3x.json",
+      "sha256": "d11dd0f29261d6de728dad2525605231a43a856de1791d4f74f44dc347a87bed",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/emerald_block_4x.json",
+      "sha256": "fe1c9d4a3575417b1b56c94b367172d7b27da93e699069b3271d5c537a9b2c6e",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/emerald_block_5x.json",
+      "sha256": "e456c7e16df5751ed044dbef7456e2e1afe1b86636aef3f9b79393f7de46d9dc",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/emerald_block_6x.json",
+      "sha256": "802fbe6924950ac4d02ece0414766dc9f342ad77eb0fcf70c7b9efc77fb24ce1",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/emerald_block_7x.json",
+      "sha256": "5592249eb6b1849cfab14322a1f6fe4eab701c607882c9949f554137b36f2136",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/emerald_block_8x.json",
+      "sha256": "776fbbd169b102a4de6c809045b4f7260945d994b60400f39190c087d0655c8f",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/emerald_block_9x.json",
+      "sha256": "911663dbdd7c0dafc9b7dbf5a711997bc0b56d7e028c589a21067a767ef8c3ca",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/end_stone_1x.json",
+      "sha256": "1f1ef4198d640ab66c12e988799be239d9e5573195f14674e8c374f012c5a5a2",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/end_stone_2x.json",
+      "sha256": "98d0e09864f1d2f73b3844e6a8afce0a59528d1d35fdf86ac6d89af748769420",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/end_stone_3x.json",
+      "sha256": "909559fb2ee249ab77056f455ab8eae2559ccba3b721159573f5c06228bafb60",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/end_stone_4x.json",
+      "sha256": "747e37716aa76b5163a34288596cc1113b9fb72380dd048674a820d205da6f93",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/end_stone_5x.json",
+      "sha256": "c79f28cae91a3b288b29b4573ce9cc07f802ac116d351958f09d9df35e17a2ad",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/end_stone_6x.json",
+      "sha256": "94f85e0dcc8cfd3b795810ebcab63cac8c22c013d0f3d86e0de7defe4099fe02",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/end_stone_7x.json",
+      "sha256": "97d40b50d8f7ed56020865ff95ff822626dee21adc5925686ba56a5929423617",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/end_stone_8x.json",
+      "sha256": "a9f71c48c2db01941a66438357eba1e76d6f28c8ebe13783c0bc0077e9fcaad3",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/end_stone_9x.json",
+      "sha256": "95f456fb77abeb06d3aba55f9c2191d93ab2076857f0d5629d5222d556557a4d",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/nether_star_block_1x.json",
+      "sha256": "6c9ae6693ec01d427f9836a8f272b10b5bb57bd24aae058b8b4644a6115136bb",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/nether_star_block_2x.json",
+      "sha256": "884c2e3f1ab71b619f6e7d4ddd9b8bb7883c03077ba4a115101ccb5b4e233854",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/nether_star_block_3x.json",
+      "sha256": "d87b3417e39827efe9a3b6d71e371822148cf63659b49edd5a7928a2d7367764",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/nether_star_block_4x.json",
+      "sha256": "ade8588cac89a89eff47760bca264387401f71e3f4b93446e1021eb6cea2c298",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/nether_star_block_5x.json",
+      "sha256": "1723a1da2fce700baee967e6f3b79abfc92e7da4c32c1aa640afc263cb318c3f",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/nether_star_block_6x.json",
+      "sha256": "94849243eb47c0a85cf2900755905aea20770d4246e3bdd646cd180bcee93a73",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/nether_star_block_7x.json",
+      "sha256": "9796a3e8a95a9912c192c15d3f3d631371ba2253c03118026eea1fa0c0c93e9b",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/nether_star_block_8x.json",
+      "sha256": "903cce997da04629873b02d915b36269be450fdb0d331e924134aeee6fd79fed",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/nether_star_block_9x.json",
+      "sha256": "04ed0f58123ca5d3d6ecd75edf1d18bfeb0f298da2c64bc52693b71d8cad5f6f",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/netherrack_1x.json",
+      "sha256": "03c6db70e6656be00a6197a5e87c3142253de4cca3765f9f8d9a18baf3b783fd",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/netherrack_2x.json",
+      "sha256": "4b55d9ecb797ed639e8181e7b4f901830b51788e0c62edb033e7a4f52961d30a",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/netherrack_3x.json",
+      "sha256": "5652e8d69f8797c1431d33a935e371c1ca88577d6060ef1f3c3ac06cb7745e20",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/netherrack_4x.json",
+      "sha256": "697e3410b381e2223d2345f4942ba5d280a21c2c1fd1ccb7bc7402243c75c9b2",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/netherrack_5x.json",
+      "sha256": "b377ea6d565cede87eddc3a69ca192fc673944f571cf5791ccdce0631b09e33b",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/netherrack_6x.json",
+      "sha256": "c2e58ab0be001461a825134eddd2c3c55516bbb5c63573c452c73f3061a9ae5b",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/netherrack_7x.json",
+      "sha256": "ffcbbdae2f366c03ac886f68cbbb7bf6e06a026cd9086252e0b81616b587078a",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/netherrack_8x.json",
+      "sha256": "4fc85b142333f296441aa4f72cbeee68390ffc9864d2992914d77d301df11833",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/netherrack_9x.json",
+      "sha256": "6f25d6df3cf0ed593320b380eb44c8fd191954179a1ca356e656d208afa0552c",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/nitro_crystal_block_1x.json",
+      "sha256": "c1783e8395df4e5e1d456aef1e8e2d7334b5beffacf916963abfd875d8169a64",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/nitro_crystal_block_2x.json",
+      "sha256": "ebc47a7c95af7f2d5df07e2dc993bc356e00271032cdfd20541740ca20fe85d4",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/nitro_crystal_block_3x.json",
+      "sha256": "f895ee7fbf5032fa01ec7d4afba00aa467f71daf0655bec08f855511d2dbaca4",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/nitro_crystal_block_4x.json",
+      "sha256": "ab8c4d382fb70ed0d8f4afdedc4b6e4526b23f29cee915a39aec0cd00d3ad7f0",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/nitro_crystal_block_5x.json",
+      "sha256": "57c83e32451b5261efdbb502db2fd2924a9eb9cc902c9b4e3bc742c1784bcec0",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/nitro_crystal_block_6x.json",
+      "sha256": "229d4490ec465312e4de236389cf53e29a2787a326ace740f657d2b3decf0757",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/nitro_crystal_block_7x.json",
+      "sha256": "eb3fbd75ebefc74eb19f51f428eb0655cb1955f3ac378dd2fbbc13d0e068aaac",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/nitro_crystal_block_8x.json",
+      "sha256": "92d083bdaf7d29ed1a3443e24e949e650b81d6573a958165774fb1ff426a5823",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/nitro_crystal_block_9x.json",
+      "sha256": "1cc255f99518ac2935b3966bf5e10152c3a87c0b350d5b255463caec7c7d7cbc",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/obsidian_1x.json",
+      "sha256": "d43d36a5157825b8fd9459140898d9a7d57dc1e08fff62904a7d453f763c97fb",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/obsidian_2x.json",
+      "sha256": "b96b70160bcf9e6f157d1f0656b8f7899a6519af64d7f819affad597a5a6d79f",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/obsidian_3x.json",
+      "sha256": "a5c4855b4edad9acbc89b60535ab33c7951603dc1d08aca9b2ee8519b65b1b2e",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/obsidian_4x.json",
+      "sha256": "bc8859ff930f1dc055448b050b580db9d94432a51d429d2433cf50054a7b00c0",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/obsidian_5x.json",
+      "sha256": "d8f6552a64c54408a69183a45ae7f173fd9aa6ee3325647b0fabb46623b322e8",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/obsidian_6x.json",
+      "sha256": "5c9f440d1c5683f1009fd52eb13f8f513ad243b91a1a8c8f3380a38f5474f031",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/obsidian_7x.json",
+      "sha256": "f20a14d38e7634db18bd944e7743d3396d1547e4c26564a0a6c67a4dc6ee2153",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/obsidian_8x.json",
+      "sha256": "38f8e8abc6e2a6407bd59112f9efea825203b4a1d0e2f6a2d2aab1d8769dc2b6",
+      "recipes": 1,
+      "unresolved": 0
+    },
+    {
+      "path": "mod:allthecompressed/data/allthecompressed/recipe/compress/obsidian_9x.json",
+      "sha256": "2ec0895cc94c665f26f225b10fd9d8cf88b71c0dddb6b7ab8d0a52aaf1f7f0a0",
+      "recipes": 1,
+      "unresolved": 0
+    }
+  ],
+  "warnings": [
+    {
+      "path": "kubejs/server_scripts/Tweaks/recipes.js",
+      "line": 85,
+      "reason": "No adapter for custom recipe: sushigocrafting:fermenting_barrel"
+    },
+    {
+      "path": "kubejs/server_scripts/Tweaks/remove_recipes_from_banlist.js",
+      "line": 3,
+      "reason": "Unresolved identifier: config"
+    },
+    {
+      "path": "kubejs/server_scripts/Unification/coke.js",
+      "line": 19,
+      "reason": "No adapter for custom recipe: immersiveengineering:crusher"
+    },
+    {
+      "path": "kubejs/server_scripts/Unification/coke.js",
+      "line": 32,
+      "reason": "No adapter for custom recipe: immersiveengineering:crusher"
+    },
+    {
+      "path": "kubejs/server_scripts/Unification/creosote.js",
+      "line": 5,
+      "reason": "No adapter for custom recipe: modern_industrialization:mixer"
+    },
+    {
+      "path": "kubejs/server_scripts/Unification/creosote.js",
+      "line": 23,
+      "reason": "No adapter for custom recipe: modern_industrialization:assembler"
+    },
+    {
+      "path": "kubejs/server_scripts/Unification/creosote.js",
+      "line": 55,
+      "reason": "No adapter for custom recipe: modern_industrialization:assembler"
+    },
+    {
+      "path": "kubejs/server_scripts/Unification/creosote.js",
+      "line": 83,
+      "reason": "No adapter for custom recipe: oritech:centrifuge_fluid"
+    },
+    {
+      "path": "kubejs/server_scripts/Unification/crops.js",
+      "line": 182,
+      "reason": "No adapter for custom recipe: farmingforblockheads:market"
+    },
+    {
+      "path": "kubejs/server_scripts/Unification/crops.js",
+      "line": 194,
+      "reason": "No adapter for custom recipe: farmingforblockheads:market"
+    },
+    {
+      "path": "kubejs/server_scripts/Unification/crops.js",
+      "line": 206,
+      "reason": "No adapter for custom recipe: farmingforblockheads:market"
+    },
+    {
+      "path": "kubejs/server_scripts/Unification/crops.js",
+      "line": 218,
+      "reason": "No adapter for custom recipe: farmingforblockheads:market"
+    },
+    {
+      "path": "kubejs/server_scripts/Unification/crops.js",
+      "line": 230,
+      "reason": "No adapter for custom recipe: farmingforblockheads:market"
+    },
+    {
+      "path": "kubejs/server_scripts/Unification/crops.js",
+      "line": 242,
+      "reason": "No adapter for custom recipe: farmingforblockheads:market"
+    },
+    {
+      "path": "kubejs/server_scripts/Unification/crops.js",
+      "line": 254,
+      "reason": "No adapter for custom recipe: farmingforblockheads:market"
+    },
+    {
+      "path": "kubejs/server_scripts/Unification/crops.js",
+      "line": 266,
+      "reason": "No adapter for custom recipe: farmingforblockheads:market"
+    },
+    {
+      "path": "kubejs/server_scripts/banlist_script.js",
+      "line": 15,
+      "reason": "Unsupported call: Platform.isClientEnvironment"
+    },
+    {
+      "path": "kubejs/server_scripts/modpack/atm_star_creative.js",
+      "line": 9,
+      "reason": "Unsupported call: MemberExpression"
+    },
+    {
+      "path": "kubejs/server_scripts/modpack/atm_star_creative.js",
+      "line": 44,
+      "reason": "Unsupported call: MemberExpression"
+    },
+    {
+      "path": "kubejs/server_scripts/modpack/atm_star_creative.js",
+      "line": 88,
+      "reason": "Unsupported call: MemberExpression"
+    },
+    {
+      "path": "kubejs/server_scripts/modpack/atm_star_creative.js",
+      "line": 208,
+      "reason": "Unsupported call: MemberExpression"
+    },
+    {
+      "path": "kubejs/server_scripts/modpack/atm_star_creative.js",
+      "line": 228,
+      "reason": "Unsupported call: MemberExpression"
+    },
+    {
+      "path": "kubejs/server_scripts/modpack/runic_multis/controllers.js",
+      "line": 3,
+      "reason": "args[1].map is not a function"
+    },
+    {
+      "path": "kubejs/server_scripts/modpack/runic_multis/controllers.js",
+      "line": 4,
+      "reason": "args[1].map is not a function"
+    },
+    {
+      "path": "kubejs/server_scripts/modpack/runic_multis/controllers.js",
+      "line": 6,
+      "reason": "args[1].map is not a function"
+    },
+    {
+      "path": "kubejs/server_scripts/modpack/runic_multis/controllers.js",
+      "line": 7,
+      "reason": "args[1].map is not a function"
+    },
+    {
+      "path": "kubejs/server_scripts/modpack/runic_multis/controllers.js",
+      "line": 9,
+      "reason": "Mod presence requires runtime verification: modular_machinery_reborn"
+    },
+    {
+      "path": "kubejs/server_scripts/modpack/runic_multis/recipes/auto_forge.js",
+      "line": 3,
+      "reason": "Mod presence requires runtime verification: modular_machinery_reborn"
+    },
+    {
+      "path": "kubejs/server_scripts/modpack/runic_multis/recipes/runic_crucible.js",
+      "line": 2,
+      "reason": "Incomplete recipe"
+    },
+    {
+      "path": "kubejs/server_scripts/modpack/runic_multis/recipes/runic_crucible.js",
+      "line": 8,
+      "reason": "Incomplete recipe"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Actually Additions/Crusher.js",
+      "line": 96,
+      "reason": "Unresolved identifier: global"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Actually Additions/Fluid_Fuels.js",
+      "line": 5,
+      "reason": "No adapter for custom recipe: justdirethings:fluiddrop"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Actually Additions/Fluid_Fuels.js",
+      "line": 25,
+      "reason": "No adapter for custom recipe: justdirethings:fluiddrop"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Actually Additions/Recipes.js",
+      "line": 2,
+      "reason": "No adapter for custom recipe: farmingforblockheads:market"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Actually Additions/Recipes.js",
+      "line": 14,
+      "reason": "No adapter for custom recipe: farmingforblockheads:market"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Actually Additions/Recipes.js",
+      "line": 26,
+      "reason": "No adapter for custom recipe: farmingforblockheads:market"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Actually Additions/Recipes.js",
+      "line": 38,
+      "reason": "No adapter for custom recipe: farmingforblockheads:market"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/AllTheOres/Recipes.js",
+      "line": 20,
+      "reason": "Unsupported member"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/AllTheOres/Recipes.js",
+      "line": 34,
+      "reason": "Unresolved identifier: materials"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Applied Energistics/Recipes.js",
+      "line": 142,
+      "reason": "No adapter for custom recipe: extendedae:circuit_cutter"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Create Enchantment Industry/recipes.js",
+      "line": 5,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Draconic Evolution/draconic_evo.js",
+      "line": 5,
+      "reason": "No adapter for custom recipe: create:crushing"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Draconic Evolution/draconic_evo.js",
+      "line": 18,
+      "reason": "No adapter for custom recipe: immersiveengineering:crusher"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Draconic Evolution/draconic_evo.js",
+      "line": 26,
+      "reason": "No adapter for custom recipe: mekanism:crushing"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Draconic Evolution/draconic_evo.js",
+      "line": 32,
+      "reason": "No adapter for custom recipe: create:crushing"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Draconic Evolution/draconic_evo.js",
+      "line": 45,
+      "reason": "No adapter for custom recipe: immersiveengineering:crusher"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Draconic Evolution/draconic_evo.js",
+      "line": 53,
+      "reason": "No adapter for custom recipe: mekanism:crushing"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/EnderIO/Recipes.js",
+      "line": 51,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/EnderIO/Recipes.js",
+      "line": 76,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/EnderIO/Recipes.js",
+      "line": 108,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/EnderIO/Recipes.js",
+      "line": 51,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/EnderIO/Recipes.js",
+      "line": 76,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/EnderIO/Recipes.js",
+      "line": 108,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/EnderIO/Recipes.js",
+      "line": 51,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/EnderIO/Recipes.js",
+      "line": 76,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/EnderIO/Recipes.js",
+      "line": 108,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/EnderIO/Recipes.js",
+      "line": 51,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/EnderIO/Recipes.js",
+      "line": 76,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/EnderIO/Recipes.js",
+      "line": 108,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/EnderIO/Recipes.js",
+      "line": 51,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/EnderIO/Recipes.js",
+      "line": 76,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/EnderIO/Recipes.js",
+      "line": 108,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/EnderIO/Recipes.js",
+      "line": 51,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/EnderIO/Recipes.js",
+      "line": 76,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/EnderIO/Recipes.js",
+      "line": 108,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/EnderIO/Recipes.js",
+      "line": 51,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/EnderIO/Recipes.js",
+      "line": 76,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/EnderIO/Recipes.js",
+      "line": 108,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/EnderIO/Recipes.js",
+      "line": 51,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/EnderIO/Recipes.js",
+      "line": 76,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/EnderIO/Recipes.js",
+      "line": 108,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/EnderIO/sagMill.js",
+      "line": 36,
+      "reason": "Unresolved identifier: global"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Hyperbox/Recipes.js",
+      "line": 4,
+      "reason": "Mod presence requires runtime verification: hyperbox"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Hyperbox/hyperbox.js",
+      "line": 1,
+      "reason": "Mod presence requires runtime verification: hyperbox"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Immersive Engineering/Compatibility.js",
+      "line": 29,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Immersive Engineering/Compatibility.js",
+      "line": 33,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Immersive Engineering/Compatibility.js",
+      "line": 29,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Immersive Engineering/Compatibility.js",
+      "line": 33,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Immersive Engineering/Compatibility.js",
+      "line": 29,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Immersive Engineering/Compatibility.js",
+      "line": 33,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Immersive Engineering/Compatibility.js",
+      "line": 29,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Immersive Engineering/Compatibility.js",
+      "line": 33,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Immersive Engineering/Compatibility.js",
+      "line": 29,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Immersive Engineering/Compatibility.js",
+      "line": 33,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Immersive Engineering/Compatibility.js",
+      "line": 29,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Immersive Engineering/Compatibility.js",
+      "line": 33,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Immersive Engineering/Compatibility.js",
+      "line": 29,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Immersive Engineering/Compatibility.js",
+      "line": 33,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Immersive Engineering/Compatibility.js",
+      "line": 29,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Immersive Engineering/Compatibility.js",
+      "line": 33,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Immersive Engineering/Compatibility.js",
+      "line": 29,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Immersive Engineering/Compatibility.js",
+      "line": 33,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Immersive Engineering/Compatibility.js",
+      "line": 29,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Immersive Engineering/Compatibility.js",
+      "line": 33,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Immersive Engineering/Compatibility.js",
+      "line": 29,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Immersive Engineering/Compatibility.js",
+      "line": 33,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Immersive Engineering/Compatibility.js",
+      "line": 29,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Immersive Engineering/Compatibility.js",
+      "line": 33,
+      "reason": "Unsupported call: Item.exists"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Immersive Engineering/Compatibility.js",
+      "line": 111,
+      "reason": "Unsupported forEach"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Integrated Dynamics/Squeezer.js",
+      "line": 73,
+      "reason": "Unresolved identifier: global"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Irons Spells Spellbooks/Recipes.js",
+      "line": 13,
+      "reason": "No adapter for custom recipe: create:filling"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Mekanism/Compatibility.js",
+      "line": 12,
+      "reason": "Unresolved identifier: global"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Mekanism/Evilcraft.js",
+      "line": 2,
+      "reason": "No adapter for custom recipe: mekanism:crushing"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Mekanism/Rebalance/Items.js",
+      "line": 15,
+      "reason": "No adapter for custom recipe: mekanism:activating"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Mekanism/Rebalance/Items.js",
+      "line": 30,
+      "reason": "No adapter for custom recipe: mekanism:centrifuging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Mekanism/Rebalance/Items.js",
+      "line": 75,
+      "reason": "No adapter for custom recipe: mekanism:oxidizing"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Mekanism/Rebalance/Items.js",
+      "line": 102,
+      "reason": "No adapter for custom recipe: mekanism:oxidizing"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Mekanism/Recipes.js",
+      "line": 186,
+      "reason": "Unresolved identifier: global"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Mekanism/ore_processing.js",
+      "line": 30,
+      "reason": "Unresolved identifier: Object"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Minecolonies/Recipes.js",
+      "line": 2,
+      "reason": "Mod presence requires runtime verification: minecolonies"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Modern Industrialization/AE_Compat.js",
+      "line": 7,
+      "reason": "No adapter for custom recipe: modern_industrialization:packer"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Modern Industrialization/AE_Compat.js",
+      "line": 29,
+      "reason": "No adapter for custom recipe: modern_industrialization:assembler"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Modern Industrialization/AE_Compat.js",
+      "line": 58,
+      "reason": "No adapter for custom recipe: modern_industrialization:packer"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Modern Industrialization/AE_Compat.js",
+      "line": 80,
+      "reason": "No adapter for custom recipe: modern_industrialization:assembler"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Modern Industrialization/AE_Compat.js",
+      "line": 109,
+      "reason": "No adapter for custom recipe: modern_industrialization:packer"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Modern Industrialization/AE_Compat.js",
+      "line": 131,
+      "reason": "No adapter for custom recipe: modern_industrialization:assembler"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Modern Industrialization/AE_Compat.js",
+      "line": 160,
+      "reason": "No adapter for custom recipe: modern_industrialization:packer"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Modern Industrialization/AE_Compat.js",
+      "line": 182,
+      "reason": "No adapter for custom recipe: modern_industrialization:assembler"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Modern Industrialization/distillation.js",
+      "line": 6,
+      "reason": "Unresolved identifier: Fluid"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/MysticalAgriculture/Compatibility.js",
+      "line": 155,
+      "reason": "Unresolved identifier: gems"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/MysticalAgriculture/Crops.js",
+      "line": 47,
+      "reason": "Unresolved identifier: CropList"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/MysticalAgriculture/Crops.js",
+      "line": 58,
+      "reason": "Mod presence requires runtime verification: immersiveengineering"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/MysticalAgriculture/Recipes.js",
+      "line": 229,
+      "reason": "No adapter for custom recipe: mysticalagriculture:soul_extraction"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Oritech/recipes.js",
+      "line": 37,
+      "reason": "No adapter for custom recipe: oritech:refinery"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Oritech/recipes.js",
+      "line": 61,
+      "reason": "No adapter for custom recipe: oritech:refinery"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Oritech/recipes.js",
+      "line": 99,
+      "reason": "No adapter for custom recipe: oritech:foundry"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Pneumaticcraft/recipes.js",
+      "line": 10,
+      "reason": "No adapter for custom recipe: pneumaticcraft:crafting_shaped_pressurizable"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Powah/Energizing.js",
+      "line": 89,
+      "reason": "Unresolved identifier: energizing"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Powah/Energizing.js",
+      "line": 90,
+      "reason": "Unresolved identifier: energizing"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 5,
+      "reason": "No adapter for custom recipe: farmingforblockheads:market"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 17,
+      "reason": "No adapter for custom recipe: farmingforblockheads:market"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 30,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 37,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 44,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 51,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 59,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 66,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 73,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 80,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 88,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 102,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 109,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 116,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 123,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 130,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 137,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 144,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 151,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 158,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 166,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 173,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 180,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 187,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 194,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 201,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 210,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 217,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 224,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 231,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 238,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 245,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 254,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 261,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 268,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 275,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 283,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 290,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 297,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 304,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 311,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 318,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 327,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 334,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 341,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 348,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 357,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 364,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 371,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 378,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 385,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 392,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 401,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 408,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 415,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 422,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 431,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 438,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 445,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 452,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 459,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 466,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 475,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 482,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 489,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 496,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 504,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 511,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 518,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 525,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 532,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 539,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 548,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 555,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 562,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 569,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 578,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 585,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 592,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 599,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 606,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 613,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 622,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 629,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 636,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Silent Gear/Recipes.js",
+      "line": 643,
+      "reason": "No adapter for custom recipe: silentgear:salvaging"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/Theurgy/liquefaction.js",
+      "line": 63,
+      "reason": "Unresolved identifier: Object"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 60,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 60,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 60,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 60,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 60,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 60,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 60,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 60,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 60,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 60,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 60,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 60,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 60,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 60,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 60,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 60,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 60,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 60,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 60,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 60,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 60,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 60,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 60,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 67,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 89,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 89,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 89,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 89,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 89,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 89,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 89,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 89,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 89,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 89,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 89,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 89,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 96,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 125,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 125,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 125,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 125,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 125,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 125,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 125,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 125,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 125,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 125,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 125,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 125,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 125,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 125,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 125,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 125,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 125,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 125,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 125,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/mekmm/recipes.js",
+      "line": 132,
+      "reason": "No adapter for custom recipe: mekmm:stamper"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/minecraft/recipes.js",
+      "line": 69,
+      "reason": "Unresolved identifier: enchanting_apparatus"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/multiblocks/atm/auto_hephaestus_forge.js",
+      "line": 4,
+      "reason": "Mod presence requires runtime verification: modular_machinery_reborn"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/multiblocks/atm/runic_crucible.js",
+      "line": 3,
+      "reason": "Mod presence requires runtime verification: modular_machinery_reborn"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/multiblocks/atm/runic_enchanter.js",
+      "line": 4,
+      "reason": "Mod presence requires runtime verification: modular_machinery_reborn"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/multiblocks/atm/runic_star_altar.js",
+      "line": 4,
+      "reason": "Mod presence requires runtime verification: modular_machinery_reborn"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/multiblocks/mekanism/chemical_crystallizer.js",
+      "line": 4,
+      "reason": "Mod presence requires runtime verification: modular_machinery_reborn"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/multiblocks/mekanism/chemical_dissolution_chamber.js",
+      "line": 4,
+      "reason": "Mod presence requires runtime verification: modular_machinery_reborn"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/multiblocks/mekanism/chemical_infuser.js",
+      "line": 4,
+      "reason": "Mod presence requires runtime verification: modular_machinery_reborn"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/multiblocks/mekanism/chemical_oxidizer.js",
+      "line": 4,
+      "reason": "Mod presence requires runtime verification: modular_machinery_reborn"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/multiblocks/mekanism/chemical_washer.js",
+      "line": 4,
+      "reason": "Mod presence requires runtime verification: modular_machinery_reborn"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/multiblocks/mekanism/electrolytic_seperator.js",
+      "line": 4,
+      "reason": "Mod presence requires runtime verification: modular_machinery_reborn"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/multiblocks/mekanism/isotopic_centrifuge.js",
+      "line": 4,
+      "reason": "Mod presence requires runtime verification: modular_machinery_reborn"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/multiblocks/mekanism/pressurized_reaction_chamber.js",
+      "line": 4,
+      "reason": "Mod presence requires runtime verification: modular_machinery_reborn"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/multiblocks/mekanism/solar_neutron_activator.js",
+      "line": 4,
+      "reason": "Mod presence requires runtime verification: modular_machinery_reborn"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/recipes/atm/auto_hephaestus_forge.js",
+      "line": 4,
+      "reason": "Mod presence requires runtime verification: modular_machinery_reborn"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/recipes/atm/general.js",
+      "line": 6,
+      "reason": "Mod presence requires runtime verification: modular_machinery_reborn"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/recipes/atm/general.js",
+      "line": 68,
+      "reason": "No adapter for custom recipe: industrialforegoing:fluid_extractor"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/recipes/atm/general.js",
+      "line": 89,
+      "reason": "No adapter for custom recipe: industrialforegoing:fluid_extractor"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/recipes/atm/multiblock_parts.js",
+      "line": 3,
+      "reason": "Mod presence requires runtime verification: modular_machinery_reborn"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/recipes/atm/runic_crucible.js",
+      "line": 4,
+      "reason": "Mod presence requires runtime verification: modular_machinery_reborn"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/recipes/atm/runic_enchanter.js",
+      "line": 4,
+      "reason": "Mod presence requires runtime verification: modular_machinery_reborn"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/recipes/mekanism/chemical_crystallizer.js",
+      "line": 4,
+      "reason": "Mod presence requires runtime verification: modular_machinery_reborn"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/recipes/mekanism/chemical_dissolution_chamber.js",
+      "line": 4,
+      "reason": "Mod presence requires runtime verification: modular_machinery_reborn"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/recipes/mekanism/chemical_infuser.js",
+      "line": 4,
+      "reason": "Mod presence requires runtime verification: modular_machinery_reborn"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/recipes/mekanism/chemical_oxidizer.js",
+      "line": 4,
+      "reason": "Mod presence requires runtime verification: modular_machinery_reborn"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/recipes/mekanism/chemical_washer.js",
+      "line": 4,
+      "reason": "Mod presence requires runtime verification: modular_machinery_reborn"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/recipes/mekanism/controllers.js",
+      "line": 4,
+      "reason": "Mod presence requires runtime verification: modular_machinery_reborn"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/recipes/mekanism/electrolytic_seperator.js",
+      "line": 4,
+      "reason": "Mod presence requires runtime verification: modular_machinery_reborn"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/recipes/mekanism/isotopic_centrifuge.js",
+      "line": 4,
+      "reason": "Mod presence requires runtime verification: modular_machinery_reborn"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/recipes/mekanism/pressurized_reaction_chamber.js",
+      "line": 4,
+      "reason": "Mod presence requires runtime verification: modular_machinery_reborn"
+    },
+    {
+      "path": "kubejs/server_scripts/mods/modular_machinery/recipes/mekanism/solar_neutron_activator.js",
+      "line": 4,
+      "reason": "Mod presence requires runtime verification: modular_machinery_reborn"
+    }
+  ]
+}

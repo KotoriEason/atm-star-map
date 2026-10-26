@@ -1,0 +1,27 @@
+{
+  "minecraft": "1.21.1",
+  "pack": "ATM10 8.3",
+  "sources": [
+    {
+      "filename": "ServerFiles-8.3.zip",
+      "url": "https://mediafilez.forgecdn.net/files/9190/182/ServerFiles-8.3.zip",
+      "sha256": "64c703d0f3bfbe6c3d2871850d57405b7f701b2be19278de3271a6879df552bf",
+      "fileId": 9190182
+    },
+    {
+      "filename": "minecraft-1.21.1-client.jar",
+      "url": "https://piston-data.mojang.com/v1/objects/30c73b1c5da787909b2f73340419fdf13b9def88/client.jar",
+      "sha1": "30c73b1c5da787909b2f73340419fdf13b9def88"
+    },
+    {
+      "filename": "minecraft-1.21.1-zh_cn.json",
+      "url": "https://resources.download.minecraft.net/56/561ed7800004b882b8eeb032ffbe2bf03895bb44",
+      "sha1": "561ed7800004b882b8eeb032ffbe2bf03895bb44"
+    },
+    {
+      "filename": "neoforge-21.1.259-universal.jar",
+      "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.259/neoforge-21.1.259-universal.jar",
+      "sha256": "50abce8f44a4f1a54e77eb5fc8db8512233f9d0725317662536a4280f4885dbb"
+    }
+  ]
+}

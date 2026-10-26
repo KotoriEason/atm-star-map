@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "project": {
+    "id": "browser-import-fixture",
+    "name": "验收 · 导入的维度之种",
+    "datasetId": "atm10-8.3-release-scripts-v1",
+    "target": "allthetweaks:dimensional_seed",
+    "quantity": 3,
+    "inventory": {"allthetweaks:mini_end": 2},
+    "recipeChoices": {},
+    "ingredientChoices": {},
+    "notes": "浏览器验收用存档。",
+    "expanded": ["root"],
+    "createdAt": "2026-10-25T12:00:00.000Z",
+    "updatedAt": "2026-10-25T12:00:00.000Z"
+  }
+}
